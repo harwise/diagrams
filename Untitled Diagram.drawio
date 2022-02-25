@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T03:00:24.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" etag="ORlu6U_XStLXh-14I0X-" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T03:01:16.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" etag="WvO_Iix92OFrmQxz4Xcy" version="16.6.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1221" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -74,7 +74,7 @@
             <mxPoint x="200" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TR_t00KWOiKgYVMql85I-54" value="inner product space" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR_t00KWOiKgYVMql85I-53">
+        <mxCell id="TR_t00KWOiKgYVMql85I-54" value="on inner product space" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR_t00KWOiKgYVMql85I-53">
           <mxGeometry x="-0.3633" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -127,7 +127,7 @@
             <mxPoint x="370" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TR_t00KWOiKgYVMql85I-70" value="mapping in vector space" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR_t00KWOiKgYVMql85I-69">
+        <mxCell id="TR_t00KWOiKgYVMql85I-70" value="on vector space" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TR_t00KWOiKgYVMql85I-69">
           <mxGeometry x="-0.3633" relative="1" as="geometry">
             <mxPoint x="-40" as="offset" />
           </mxGeometry>
@@ -176,7 +176,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TR_t00KWOiKgYVMql85I-81" value="inner product space" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="TR_t00KWOiKgYVMql85I-81" value="on inner product space" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="419.9958823529412" y="520" as="geometry" />
         </mxCell>
         <mxCell id="TR_t00KWOiKgYVMql85I-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;fillColor=#007FFF;elbow=vertical;" edge="1" parent="1" source="TR_t00KWOiKgYVMql85I-82" target="TR_t00KWOiKgYVMql85I-56">

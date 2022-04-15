@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T07:54:37.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.39" etag="mz3si-v46Glyx57f3qS6" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T01:45:28.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.39" etag="X_3LQuC9J0Nm6xv6XtAm" version="16.6.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1153" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3460" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,6 +298,24 @@
             <mxPoint x="1280.0000000000005" y="450" as="sourcePoint" />
             <mxPoint x="1020" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="seV10Hp5-24tT59cyQeX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="seV10Hp5-24tT59cyQeX-13" target="seV10Hp5-24tT59cyQeX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seV10Hp5-24tT59cyQeX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="seV10Hp5-24tT59cyQeX-13" target="seV10Hp5-24tT59cyQeX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seV10Hp5-24tT59cyQeX-13" value="Over R, normal = block diagonal matrix such that each block is 1-by-1 or 2-by-2 of the form&lt;br&gt;(a&amp;nbsp; &amp;nbsp; -b)&lt;br&gt;(b&amp;nbsp; &amp;nbsp; &amp;nbsp;a)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="710" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="seV10Hp5-24tT59cyQeX-14" value="&lt;span&gt;Complexification: every operator on a finite-dimensional, nonzero vector space has an invariant subspace of dimension 1 or 2.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="580" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="seV10Hp5-24tT59cyQeX-16" value="&lt;span&gt;Inner product space: if U is an invariant subspace under T,&lt;br&gt;1) orthogonal complement of U is invariant under T;&amp;nbsp;&lt;br&gt;2) U is invariant under T*.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1018" y="580" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="seV10Hp5-24tT59cyQeX-18" value="Over R, a block diagonal matrix such that each block is 1-by-1 or 2-by-2 of the form&lt;br&gt;(cos&amp;nbsp; &amp;nbsp;-sin)&lt;br&gt;(sin&amp;nbsp; &amp;nbsp; cos)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1210" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

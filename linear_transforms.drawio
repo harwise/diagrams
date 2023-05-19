@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T04:24:46.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="dT6iH41yfSYql3cOvZyt" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T01:59:03.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="1VhNQFql7MwR3nro5uCg" version="20.0.1" type="github">
   <diagram id="hmJf-n0jonPnj5yPlmyh" name="Page-2">
-    <mxGraphModel dx="1483" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="IuaTcRtPijXqOsnX0eB4-0" />
         <mxCell id="IuaTcRtPijXqOsnX0eB4-1" parent="IuaTcRtPijXqOsnX0eB4-0" />
@@ -40,7 +40,7 @@
         <mxCell id="aK0aah2MI1z-rDvGibRR-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="IuaTcRtPijXqOsnX0eB4-1" source="IuaTcRtPijXqOsnX0eB4-10" target="IuaTcRtPijXqOsnX0eB4-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="weRdoKOzOpDn8pe9hfM9-2" value="C" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aK0aah2MI1z-rDvGibRR-66">
+        <mxCell id="weRdoKOzOpDn8pe9hfM9-2" value="C" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aK0aah2MI1z-rDvGibRR-66" vertex="1" connectable="0">
           <mxGeometry x="0.2235" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -114,7 +114,7 @@
         <mxCell id="IuaTcRtPijXqOsnX0eB4-43" value="Over C, diagonalizable with respect to an orthogonal basis (eigenvectors), and eigenvalues have absolute value 1." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="IuaTcRtPijXqOsnX0eB4-1" vertex="1">
           <mxGeometry x="394.95" y="1235" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="weRdoKOzOpDn8pe9hfM9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="IuaTcRtPijXqOsnX0eB4-1" source="IuaTcRtPijXqOsnX0eB4-56">
+        <mxCell id="weRdoKOzOpDn8pe9hfM9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="IuaTcRtPijXqOsnX0eB4-1" source="IuaTcRtPijXqOsnX0eB4-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="219.76470588235293" as="targetPoint" />
           </mxGeometry>
@@ -128,8 +128,8 @@
         <mxCell id="IuaTcRtPijXqOsnX0eB4-58" value="Over C, there is a basis consisting of generalized eigenvectors." style="rounded=1;whiteSpace=wrap;html=1;" parent="IuaTcRtPijXqOsnX0eB4-1" vertex="1">
           <mxGeometry x="564.95" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IuaTcRtPijXqOsnX0eB4-60" value="V = G(λ1, T)&amp;nbsp;⊗&amp;nbsp;&lt;span&gt;…&lt;/span&gt;&lt;br&gt;&amp;nbsp;⊗ G(λm, T)" style="rounded=0;whiteSpace=wrap;html=1;" parent="IuaTcRtPijXqOsnX0eB4-1" vertex="1">
-          <mxGeometry x="734.95" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="IuaTcRtPijXqOsnX0eB4-60" value="V = G(lambda_1, T) (X)&amp;nbsp;&lt;span&gt;…&lt;/span&gt;&lt;br&gt;(X) G(lambda_m, T) ((X) is tensor product, i.e. otimes)" style="rounded=0;whiteSpace=wrap;html=1;" parent="IuaTcRtPijXqOsnX0eB4-1" vertex="1">
+          <mxGeometry x="734.95" y="820" width="155.05" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IuaTcRtPijXqOsnX0eB4-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="IuaTcRtPijXqOsnX0eB4-1" source="IuaTcRtPijXqOsnX0eB4-64" target="IuaTcRtPijXqOsnX0eB4-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -257,7 +257,7 @@
         <mxCell id="aK0aah2MI1z-rDvGibRR-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="IuaTcRtPijXqOsnX0eB4-1" source="aK0aah2MI1z-rDvGibRR-69" target="aK0aah2MI1z-rDvGibRR-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="weRdoKOzOpDn8pe9hfM9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IuaTcRtPijXqOsnX0eB4-1" source="aK0aah2MI1z-rDvGibRR-69" target="IuaTcRtPijXqOsnX0eB4-56">
+        <mxCell id="weRdoKOzOpDn8pe9hfM9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="IuaTcRtPijXqOsnX0eB4-1" source="aK0aah2MI1z-rDvGibRR-69" target="IuaTcRtPijXqOsnX0eB4-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1180" y="220" />
@@ -314,7 +314,7 @@
         <mxCell id="aK0aah2MI1z-rDvGibRR-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="IuaTcRtPijXqOsnX0eB4-1" source="aK0aah2MI1z-rDvGibRR-87" target="aK0aah2MI1z-rDvGibRR-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="weRdoKOzOpDn8pe9hfM9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;dashed=1;" edge="1" parent="IuaTcRtPijXqOsnX0eB4-1" source="aK0aah2MI1z-rDvGibRR-87" target="weRdoKOzOpDn8pe9hfM9-7">
+        <mxCell id="weRdoKOzOpDn8pe9hfM9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;dashed=1;" parent="IuaTcRtPijXqOsnX0eB4-1" source="aK0aah2MI1z-rDvGibRR-87" target="weRdoKOzOpDn8pe9hfM9-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aK0aah2MI1z-rDvGibRR-87" value="operator" style="ellipse;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;" parent="IuaTcRtPijXqOsnX0eB4-1" vertex="1">
@@ -323,24 +323,24 @@
         <mxCell id="aK0aah2MI1z-rDvGibRR-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="IuaTcRtPijXqOsnX0eB4-1" source="aK0aah2MI1z-rDvGibRR-35" target="IuaTcRtPijXqOsnX0eB4-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="weRdoKOzOpDn8pe9hfM9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="IuaTcRtPijXqOsnX0eB4-1" source="weRdoKOzOpDn8pe9hfM9-0" target="IuaTcRtPijXqOsnX0eB4-100">
+        <mxCell id="weRdoKOzOpDn8pe9hfM9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="IuaTcRtPijXqOsnX0eB4-1" source="weRdoKOzOpDn8pe9hfM9-0" target="IuaTcRtPijXqOsnX0eB4-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="weRdoKOzOpDn8pe9hfM9-3" value="R" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="weRdoKOzOpDn8pe9hfM9-1">
+        <mxCell id="weRdoKOzOpDn8pe9hfM9-3" value="R" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="weRdoKOzOpDn8pe9hfM9-1" vertex="1" connectable="0">
           <mxGeometry x="-0.2403" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weRdoKOzOpDn8pe9hfM9-0" value="Real Jordan Form" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="IuaTcRtPijXqOsnX0eB4-1">
+        <mxCell id="weRdoKOzOpDn8pe9hfM9-0" value="Real Jordan Form" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="IuaTcRtPijXqOsnX0eB4-1" vertex="1">
           <mxGeometry x="635" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="weRdoKOzOpDn8pe9hfM9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeColor=default;" edge="1" parent="IuaTcRtPijXqOsnX0eB4-1" source="weRdoKOzOpDn8pe9hfM9-7" target="weRdoKOzOpDn8pe9hfM9-8">
+        <mxCell id="weRdoKOzOpDn8pe9hfM9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeColor=default;" parent="IuaTcRtPijXqOsnX0eB4-1" source="weRdoKOzOpDn8pe9hfM9-7" target="weRdoKOzOpDn8pe9hfM9-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="weRdoKOzOpDn8pe9hfM9-7" value="Over R, there is a basis that is a Real Jordan basis of T." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IuaTcRtPijXqOsnX0eB4-1">
+        <mxCell id="weRdoKOzOpDn8pe9hfM9-7" value="Over R, there is a basis that is a Real Jordan basis of T." style="rounded=1;whiteSpace=wrap;html=1;" parent="IuaTcRtPijXqOsnX0eB4-1" vertex="1">
           <mxGeometry x="1357.45" y="915" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="weRdoKOzOpDn8pe9hfM9-8" value="if Tc(u+iv) = (a+bi)(u+iv), then span(u,v) is a subspace of V." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IuaTcRtPijXqOsnX0eB4-1">
+        <mxCell id="weRdoKOzOpDn8pe9hfM9-8" value="if Tc(u+iv) = (a+bi)(u+iv), then span(u,v) is a subspace of V." style="rounded=0;whiteSpace=wrap;html=1;" parent="IuaTcRtPijXqOsnX0eB4-1" vertex="1">
           <mxGeometry x="1527.45" y="923.5" width="210" height="43" as="geometry" />
         </mxCell>
       </root>
